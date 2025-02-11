@@ -1,0 +1,5 @@
+gradio
+torch
+torchaudio
+uv
+git+https://github.com/Zyphra/Zonos.git#egg=Zonos
